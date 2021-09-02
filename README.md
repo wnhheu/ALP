@@ -53,7 +53,7 @@ ok，一个新的问题，什么是指令集
 
 就像小学时候的烧水问题，如何趁着水烧开之前的时间多做一点工作，CPU也是这样的
 
-<img src="C:\Users\wnhheu\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\wnhheu\computer_assemble\ALP\image\cpu.jpg" alt="cpu" style="zoom: 25%;" />
+![cpu](/image/cpu.jpg?raw=true)
 
 ### 内存
 
@@ -67,7 +67,7 @@ CPU计算所需要的数据都是从内存中来的，内存中的数据则是�
 
 > 你看到了一件事情，你看到的内容通过视神经传到大脑，但是大脑在分析之前这写信息先被存储在一块区域，然后大脑从区域中调集信息进行分析，分析好了之后把结果传回这块区域，然后这块区域再传信息给你的嘴去说话或者你的手去行动，内存就是这样的一块区域
 
-![内存](/image/ram.jpg?raw=true)
+![ram](/image/ram.jpg?raw=true)
 
 ### 显卡
 
@@ -77,7 +77,7 @@ CPU计算所需要的数据都是从内存中来的，内存中的数据则是�
 
 早期的电脑是由CPU来完成3D的运算，而随着3D游戏、3D动画的流行，对运算的要求越来越高，所以后来在显卡上面嵌入一个3D加速的芯片，就是所谓的GPU
 
-<img src="C:\Users\wnhheu\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\wnhheu\computer_assemble\ALP\image\gpu.jpg" alt="ram" style="zoom:25%;" />
+![gpu](/image/gpu.jpg?raw=true)
 
 ### 硬盘
 
@@ -99,7 +99,7 @@ CPU计算所需要的数据都是从内存中来的，内存中的数据则是�
 >
 > 而硬盘的速度可能都不足1GB/s
 
-<img src="C:\Users\wnhheu\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\wnhheu\computer_assemble\ALP\image\ssd.png" alt="ram" style="zoom: 50%;" />
+![ssd](/image/ssd.jpg?raw=true)
 
 ### 主板
 
@@ -111,7 +111,7 @@ CPU计算所需要的数据都是从内存中来的，内存中的数据则是�
 
 主板上有芯片组、数据线、各种各样的接口，主板通过这些来连接不同的元件并且和外部环境交流
 
-<img src="C:\Users\wnhheu\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\wnhheu\computer_assemble\ALP\image\main_board.jpg" alt="差不多长这样" style="zoom: 50%;" />
+![mainboard](/image/mainboard.jpg?raw=true)
 
 ### 电源
 
@@ -119,7 +119,7 @@ CPU计算所需要的数据都是从内存中来的，内存中的数据则是�
 
 电源给主板供电之后主板再去给各个硬件进行供电
 
-<img src="C:\Users\wnhheu\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\wnhheu\computer_assemble\ALP\image\power.png" alt="ram" style="zoom:50%;" />
+![power](/image/power.png?raw=true)
 
 ### 机箱
 
