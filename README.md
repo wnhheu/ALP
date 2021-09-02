@@ -67,7 +67,7 @@ CPU计算所需要的数据都是从内存中来的，内存中的数据则是�
 
 > 你看到了一件事情，你看到的内容通过视神经传到大脑，但是大脑在分析之前这写信息先被存储在一块区域，然后大脑从区域中调集信息进行分析，分析好了之后把结果传回这块区域，然后这块区域再传信息给你的嘴去说话或者你的手去行动，内存就是这样的一块区域
 
-<img src="C:\Users\wnhheu\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\wnhheu\computer_assemble\ALP\image\ram.jpg" alt="ram" style="zoom:25%;" />
+![内存](http://url/to/ram.img)
 
 ### 显卡
 
