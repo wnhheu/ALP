@@ -53,6 +53,8 @@ ok，一个新的问题，什么是指令集
 
 就像小学时候的烧水问题，如何趁着水烧开之前的时间多做一点工作，CPU也是这样的
 
+<img src="C:\Users\wnhheu\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\wnhheu\computer_assemble\ALP\image\cpu.jpg" alt="cpu" style="zoom: 25%;" />
+
 ### 内存
 
 那么CPU计算所需要的数据是从哪里来的呢？当然不是我告诉它，“算一下 1 + 1 = ？“
@@ -65,6 +67,8 @@ CPU计算所需要的数据都是从内存中来的，内存中的数据则是�
 
 > 你看到了一件事情，你看到的内容通过视神经传到大脑，但是大脑在分析之前这写信息先被存储在一块区域，然后大脑从区域中调集信息进行分析，分析好了之后把结果传回这块区域，然后这块区域再传信息给你的嘴去说话或者你的手去行动，内存就是这样的一块区域
 
+<img src="C:\Users\wnhheu\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\wnhheu\computer_assemble\ALP\image\ram.jpg" alt="ram" style="zoom:25%;" />
+
 ### 显卡
 
 我们的电脑一般都有图形界面，图形界面就是用显卡来生成的，如果没有显卡那么你的电脑就无法点亮了，一般像服务器就不需要显卡，因为没有图形显示的需求，大多都是远程操作的
@@ -72,6 +76,8 @@ CPU计算所需要的数据都是从内存中来的，内存中的数据则是�
 我们的电脑一般情况下都需要有一个显示屏，显示屏是由一个个像素点组成的，而存放每一个像素点的颜色会占用内存，因此显卡上会有集成内存称为显存
 
 早期的电脑是由CPU来完成3D的运算，而随着3D游戏、3D动画的流行，对运算的要求越来越高，所以后来在显卡上面嵌入一个3D加速的芯片，就是所谓的GPU
+
+<img src="C:\Users\wnhheu\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\wnhheu\computer_assemble\ALP\image\gpu.jpg" alt="ram" style="zoom:25%;" />
 
 ### 硬盘
 
@@ -93,6 +99,8 @@ CPU计算所需要的数据都是从内存中来的，内存中的数据则是�
 >
 > 而硬盘的速度可能都不足1GB/s
 
+<img src="C:\Users\wnhheu\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\wnhheu\computer_assemble\ALP\image\ssd.png" alt="ram" style="zoom: 50%;" />
+
 ### 主板
 
 介绍了这么多的硬件，那么这些硬件之间是如何沟通的呢？
@@ -103,11 +111,15 @@ CPU计算所需要的数据都是从内存中来的，内存中的数据则是�
 
 主板上有芯片组、数据线、各种各样的接口，主板通过这些来连接不同的元件并且和外部环境交流
 
+<img src="C:\Users\wnhheu\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\wnhheu\computer_assemble\ALP\image\main_board.jpg" alt="差不多长这样" style="zoom: 50%;" />
+
 ### 电源
 
 电源很简单，就是用来给主板供电的，没错，是给主板供电的
 
 电源给主板供电之后主板再去给各个硬件进行供电
+
+<img src="C:\Users\wnhheu\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\wnhheu\computer_assemble\ALP\image\power.png" alt="ram" style="zoom:50%;" />
 
 ### 机箱
 
@@ -121,7 +133,11 @@ M-ATX是中等大小的机箱（在选购时需要稍微注意一下尺寸）
 
 主板也有这三种情况，需要注意的是大机箱可以装小主板，小主板不可以装大机箱（这很正常）
 
+(机箱的样子应该大家都见过，就不放图了
 
+---
+
+到这里，我们差不多对一个计算机的最基本的组成有一个了解了，至少你知道装一台电脑需要哪些硬件，这些硬件分别有什么样的用途
 
 
 
